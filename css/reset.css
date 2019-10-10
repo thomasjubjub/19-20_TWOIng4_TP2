@@ -60,14 +60,14 @@ a {
 
 /* change colours to suit your needs */
 ins {
-    background-color:#ff9;
+    background-color:rgb(243, 243, 139);
     color:#000;
     text-decoration:none;
 }
 
 /* change colours to suit your needs */
 mark {
-    background-color:#ff9;
+    background-color:rgb(158, 158, 30);
     color:#000; 
     font-style:italic;
     font-weight:bold;
