@@ -22,7 +22,8 @@ a {
     padding: 25px 0;
 }
 
-body header {
+body > header{
+    
     margin-bottom: 20px;
     background: white;
     box-shadow: 1px 0px 8px rgb(200, 200, 200);
